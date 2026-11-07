@@ -6,3 +6,9 @@ __pycache__/
 *.pyc
 engine
 engine.exe
+node_modules/
+.pytest_cache/
+tests/qr-*.json
+# Local review screenshot; not needed to run or test the app.
+/pluq-preview.jpg
+.vs/
